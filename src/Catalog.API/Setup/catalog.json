@@ -3,7 +3,8 @@
     "Id": 1,
     "Type": "Tee Shirt",
     "Brand": "Champion",
-    "Name": "Champion Basic Tee Shirt",
+    "Gender": "Male",
+    "Name": "Champion Basic Tee Shirt with Seal",
     "Description": "Discover the St. Scholastica Champion Basic Tee, crafted for ultimate comfort and versatility. Made from 100% cotton jersey for a soft, breathable feel, with variations including 950's 90% cotton and 10% polyester blend and 990's 50% cotton and 50% polyester mix.",
     "Price": 109.99
   },
@@ -11,6 +12,7 @@
     "Id": 2,
     "Type": "Tee Shirt",
     "Brand": "Gravitator",
+    "Gender": "Male",
     "Name": "CI Sport Dad Tee",
     "Description": "Conquer new heights with the Summit Pro Harness by Gravitator. This lightweight and durable climbing harness features adjustable leg loops and waist belt for a customized fit. With its vibrant blue color, you'll look stylish while maneuvering difficult routes. Safety is a top priority with a reinforced tie-in point and strong webbing loops.",
     "Price": 89.99
@@ -19,7 +21,8 @@
     "Id": 3,
     "Type": "Cardigan",
     "Brand": "CI Sport",
-    "Name": "Sport Ladies Easy Fit",
+    "Gender": "Women",
+    "Name": "CI Sport Ladies Easy Fit Cardigan - Marble Grey",
     "Description": "Ladies Easy Fit Cardigan.",
     "Price": 79.99
   },
@@ -27,7 +30,8 @@
     "Id": 4,
     "Type": "Hooded Sweatshirt",
     "Brand": "CI Sport",
-    "Name": "CI Sport Storm Hood",
+    "Gender": "Male",
+    "Name": "CI Sport Storm Hood - Navy",
     "Description": "80% cotton, 20% polyester blend for comfort and durability. Cozy 10 oz weight",
     "Price": 129.99
   },
@@ -35,7 +39,8 @@
     "Id": 5,
     "Type": "Tee Shirt",
     "Brand": "Freedom Wear Co.",
-    "Name": "Grandparent Everett Tee",
+    "Gender": "Male",
+    "Name": "Freedom Wear Grandparent Everett Tee",
     "Description": "A soft, ringspun cotton tee that can be worn on its own or as a layer. The reinforced neck seam keeps the shape wear after wear.",
     "Price": 299.99
   },
@@ -43,7 +48,8 @@
     "Id": 6,
     "Type": "Hooded Sweatshirt",
     "Brand": "Gear for Sports",
-    "Name": "Cotton Tumbled Hood",
+    "Gender": "Male",
+    "Name": "Gear Big Cotton Tumbled Hood - Shield",
     "Description": " Fabric: - 80% cotton/20% polyester Features: - Jersey lined hood with drawstring and front pouch pocket - Cotton/spandex rib at cuff and waistband",
     "Price": 69.99
   },
@@ -51,7 +57,8 @@
     "Id": 7,
     "Type": "Short",
     "Brand": "MV Sport",
-    "Name": "Jolene Short-Grey",
+    "Gender": "Male",
+    "Name": "Jolene Fundamental Short-Grey",
     "Description": "These shorts are made with 100% cotton fabric.",
     "Price": 149.99
   },
@@ -59,7 +66,8 @@
     "Id": 8,
     "Type": "Jackets",
     "Brand": "League",
-    "Name": "Midi Full Zip - Navy",
+    "Gender": "Women",
+    "Name": "League All Day Midi Full Zip - Navy",
     "Description": " Add the All Day Midi Full Zip hoodie to your athleisure closet. The straight easy fit, flattering stretchy drape, and uniform forward shoulder allow for comfort and function. Our butter soft lux Micro Terry fabric is made with a perfected blend of materials, using spandex for an amazing 4-way stretch.",
     "Price": 179.99
   },
@@ -67,7 +75,8 @@
     "Id": 9,
     "Type": "Vest",
     "Brand": "League",
-    "Name": "Mens Saranac Vest",
+    "Gender": "Male",
+    "Name": "League Mens Saranac Vest",
     "Description": "Made with the most versatile and sophisticated sweater-knit fleece, this signature style is a quintessential everyday layer in cooler weather.",
     "Price": 199.99
   },
@@ -75,14 +84,16 @@
     "Id": 10,
     "Type": "Beanie",
     "Brand": "Legacy Headwear",
-    "Name": "Legacy Old School",
-    "Description": "This St. Scholastica Saints Legacy Old School Ribbed Cuff Knit Beanie features an embroidered shield on the cuff and knit SAINTS across the middle of the cap.",
+    "Gender": "Unisex",
+    "Name": "Legacy Old School Ribbed Cuff Beanie with Pom",
+    "Description": "This St. Scholastica Saints Legacy Old School Ribbed Cuff Knit Beanie features an embroidered shield on the cuff and knit SAINTS across the middle of the cap. It's finished with a pom on the top.",
     "Price": 59.99
   },
   {
     "Id": 11,
     "Type": "Cap",
     "Brand": "Legacy Headwear",
+    "Gender": "Male",
     "Name": "Legacy Reclaim Mid-Pro - Dark Grey",
     "Description": "100% Polyester. Adjustable Strapback.",
     "Price": 129.99
@@ -91,7 +102,8 @@
     "Id": 12,
     "Type": "Ear Warmer",
     "Brand": "LogoFit",
-    "Name": "LogoFit 180's Tec Fleece",
+    "Gender": "Unisex",
+    "Name": "LogoFit 180's Tec Fleece Ear Warmers with Presidential Shield - Charcoal",
     "Description": "Foldable and collapsible for convenient and easy storage.",
     "Price": 399.00
   },
@@ -99,6 +111,7 @@
     "Id": 13,
     "Type": "Glove",
     "Brand": "LogoFit",
+    "Gender": "Unisex",
     "Name": "LogoFit Peak Gloves - Medium",
     "Description": "3M Thinsulate lined gloves from LOGOFIT. Embroidered patch style logo on back of hand",
     "Price": 89.99
@@ -107,6 +120,7 @@
     "Id": 14,
     "Type": "Short",
     "Brand": "Nike",
+    "Gender": "Male",
     "Name": "Nike Tempo Short - Anthrac",
     "Description": "Nike Tempo Short.",
     "Price": 59.99
@@ -115,8 +129,9 @@
     "Id": 15,
     "Type": "Jacket",
     "Brand": "MV Sport",
-    "Name": "Packable Down Puffer Jacket",
-    "Description": "00% 380T high density nylon shell. 90/10 duck down, 550 fill power. Lightweight & packable: folds and stows inside separate pouch.",
+    "Gender": "Male",
+    "Name": "Weatherproof Packable Down Puffer Jacket",
+    "Description": "00% 380T high density nylon shell. 90/10 duck down, 550 fill power. Lightweight & packable: folds and stows inside separate pouch. Zippered side entry pockets. Water resistant; Wind resistant. Machine washable. APT Asphalt Melange 75/25 nylon/polyester.",
     "Price": 249.99
   }
 ]

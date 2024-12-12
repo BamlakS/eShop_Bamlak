@@ -345,6 +345,7 @@ public static class CatalogApi
             Name = product.Name,
             PictureFileName = product.PictureFileName,
             Price = product.Price,
+            Gender = product.Gender,
             AvailableStock = product.AvailableStock,
             RestockThreshold = product.RestockThreshold,
             MaxStockThreshold = product.MaxStockThreshold
