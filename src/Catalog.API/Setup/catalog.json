@@ -22,7 +22,7 @@
     "Type": "Cardigan",
     "Brand": "CI Sport",
     "Gender": "Women",
-    "Name": "CI Sport Ladies Easy Fit Cardigan - Marble Grey",
+    "Name": "CI Sport Ladies Easy Fit Cardigan",
     "Description": "Ladies Easy Fit Cardigan.",
     "Price": 79.99
   },
@@ -31,7 +31,7 @@
     "Type": "Hooded Sweatshirt",
     "Brand": "CI Sport",
     "Gender": "Male",
-    "Name": "CI Sport Storm Hood - Navy",
+    "Name": "CI Sport Storm Hood",
     "Description": "80% cotton, 20% polyester blend for comfort and durability. Cozy 10 oz weight",
     "Price": 129.99
   },
@@ -40,7 +40,7 @@
     "Type": "Tee Shirt",
     "Brand": "Freedom Wear Co.",
     "Gender": "Male",
-    "Name": "Freedom Wear Grandparent Everett Tee",
+    "Name": "Grandparent Everett Tee",
     "Description": "A soft, ringspun cotton tee that can be worn on its own or as a layer. The reinforced neck seam keeps the shape wear after wear.",
     "Price": 299.99
   },
@@ -49,7 +49,7 @@
     "Type": "Hooded Sweatshirt",
     "Brand": "Gear for Sports",
     "Gender": "Male",
-    "Name": "Gear Big Cotton Tumbled Hood - Shield",
+    "Name": "Gear Big Cotton Tumbled Hood",
     "Description": " Fabric: - 80% cotton/20% polyester Features: - Jersey lined hood with drawstring and front pouch pocket - Cotton/spandex rib at cuff and waistband",
     "Price": 69.99
   },
@@ -58,7 +58,7 @@
     "Type": "Short",
     "Brand": "MV Sport",
     "Gender": "Male",
-    "Name": "Jolene Fundamental Short-Grey",
+    "Name": "Jolene Fundamental Short",
     "Description": "These shorts are made with 100% cotton fabric.",
     "Price": 149.99
   },
@@ -67,7 +67,7 @@
     "Type": "Jackets",
     "Brand": "League",
     "Gender": "Women",
-    "Name": "League All Day Midi Full Zip - Navy",
+    "Name": "League All Day Midi",
     "Description": " Add the All Day Midi Full Zip hoodie to your athleisure closet. The straight easy fit, flattering stretchy drape, and uniform forward shoulder allow for comfort and function. Our butter soft lux Micro Terry fabric is made with a perfected blend of materials, using spandex for an amazing 4-way stretch.",
     "Price": 179.99
   },
@@ -85,7 +85,7 @@
     "Type": "Beanie",
     "Brand": "Legacy Headwear",
     "Gender": "Unisex",
-    "Name": "Legacy Old School Ribbed Cuff Beanie with Pom",
+    "Name": "Ribbed Cuff Beanie with Pom",
     "Description": "This St. Scholastica Saints Legacy Old School Ribbed Cuff Knit Beanie features an embroidered shield on the cuff and knit SAINTS across the middle of the cap. It's finished with a pom on the top.",
     "Price": 59.99
   },
@@ -94,7 +94,7 @@
     "Type": "Cap",
     "Brand": "Legacy Headwear",
     "Gender": "Male",
-    "Name": "Legacy Reclaim Mid-Pro - Dark Grey",
+    "Name": "Legacy Reclaim Mid-Pro",
     "Description": "100% Polyester. Adjustable Strapback.",
     "Price": 129.99
   },
@@ -103,7 +103,7 @@
     "Type": "Ear Warmer",
     "Brand": "LogoFit",
     "Gender": "Unisex",
-    "Name": "LogoFit 180's Tec Fleece Ear Warmers with Presidential Shield - Charcoal",
+    "Name": "LogoFit 180's Tec Fleece",
     "Description": "Foldable and collapsible for convenient and easy storage.",
     "Price": 399.00
   },
@@ -112,7 +112,7 @@
     "Type": "Glove",
     "Brand": "LogoFit",
     "Gender": "Unisex",
-    "Name": "LogoFit Peak Gloves - Medium",
+    "Name": "LogoFit Peak Gloves",
     "Description": "3M Thinsulate lined gloves from LOGOFIT. Embroidered patch style logo on back of hand",
     "Price": 89.99
   },
@@ -121,7 +121,7 @@
     "Type": "Short",
     "Brand": "Nike",
     "Gender": "Male",
-    "Name": "Nike Tempo Short - Anthrac",
+    "Name": "Nike Tempo Short",
     "Description": "Nike Tempo Short.",
     "Price": 59.99
   },
@@ -130,7 +130,7 @@
     "Type": "Jacket",
     "Brand": "MV Sport",
     "Gender": "Male",
-    "Name": "Weatherproof Packable Down Puffer Jacket",
+    "Name": "Weatherproof Puffer Jacket",
     "Description": "00% 380T high density nylon shell. 90/10 duck down, 550 fill power. Lightweight & packable: folds and stows inside separate pouch. Zippered side entry pockets. Water resistant; Wind resistant. Machine washable. APT Asphalt Melange 75/25 nylon/polyester.",
     "Price": 249.99
   }
